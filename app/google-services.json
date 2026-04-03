@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "854704582819",
+    "project_id": "bayan-not",
+    "storage_bucket": "bayan-not.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:854704582819:android:fba46af5747ecdd9ff0f16",
+        "android_client_info": {
+          "package_name": "com.example.bayan"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3QcBRZqyO8vZUN6C8hgQ5-eK52sG8Mds"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
